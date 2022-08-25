@@ -24,7 +24,7 @@ go run main.go
 
 Install binary via `go`
 ```
-go install github.com/mrbuk/echo`
+go install github.com/mrbuk/echo
 ```
 
 Docker
